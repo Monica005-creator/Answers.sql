@@ -1,2 +1,2 @@
-# Answqers.sql
- my sql assignment none
+# Answers.sql
+ my sql assignment one
